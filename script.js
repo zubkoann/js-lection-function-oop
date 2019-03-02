@@ -78,7 +78,6 @@
       this.gladiator = gladiator;
       this.monster = monster;
       this.winner = 'Friendship wins!';
-      this.start=this.start.bind(this);
     }
 
     start() {
