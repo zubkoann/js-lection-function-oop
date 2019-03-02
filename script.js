@@ -48,7 +48,7 @@
   // console.log(memMyltiply(5, 2));
   // console.log(memMyltiply(1, 2));
 
-  //2. Реализовать memoization - функцию
+  //3. Game
   const atackType = ['strikeWeapons', 'cuttingWeapons', 'withoutWeapons', 'magic'];
   const atackMethod = ['headblow', 'throw'];
   const strenthatackMethod = [2, 1];
